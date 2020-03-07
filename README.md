@@ -1,2 +1,3 @@
-# tg-search
+# TgSarch
+
 Web application for Telegram
