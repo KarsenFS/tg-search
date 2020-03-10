@@ -26,6 +26,7 @@ npm run serve
 ### Compiles server for development (in 'server' folder)
 
 ```
+source env/bin/activate
 python app.py
 ```
 
